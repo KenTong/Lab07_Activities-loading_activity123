@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Lab07_Activities</string>
+
+    <string name="question_1">請問 \u00A0\u00A0\u00A0 \"1\" + 1 \u00A0\u00A0\u00A0 的結果是?</string>
+
+    <string name="question_1_radio_a">\u00A0\u00A0編譯失敗</string>
+    <string name="question_1_radio_b">\u00A0\u00A02</string>
+    <string name="question_1_radio_c">\u00A0\u00A011</string>
+
+     <string name="question_2">
+        <![CDATA[
+        請問
+        <br><br>
+        \u00A0\u00A0\u00A0\u00A0<b><font color="blue">&lt;merge&gt;</font></b>
+        <br><br>
+        在 android layout 的用途?
+        ]]>
+    </string>
+
+    <string name="question_2_radio_a">根本就沒有這個功能</string>
+    <string name="question_2_radio_b">
+        <![CDATA[
+        將一個 layout 併入另一個 layout,<br>
+        可節省一層 <b>ViewGroup</b>
+        ]]>
+    </string>
+    <string name="question_2_radio_c">版本控制系統用來合併不同的分支</string>
+
+    <string name="question_3">
+        <![CDATA[
+        請問<br>切換 Activity 要呼叫哪個方法?
+        ]]>
+    </string>
+    <string name="question_3_radio_a">startActivit()</string>
+    <string name="question_3_radio_b">startActivityForResult()</string>
+    <string name="question_3_radio_c">以上皆是</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Exams>
+    <Exam>
+        <Question>(raw)請問 &#xa0;&#xa0;&#xa0; "1" + 1 &#xa0;&#xa0;&#xa0;的結果是?</Question>
+        <OptionA>編譯失敗</OptionA>
+        <OptionB>2</OptionB>
+        <OptionC>11</OptionC>
+    </Exam>
+    <Exam>
+        <Question>
+            <![CDATA[
+                請問
+                <br><br>
+                &#xa0;&#xa0;&#xa0;&#xa0;<b><font color="blue">&lt;merge&gt;</font></b>
+                <br><br>
+                在 android layout 的用途?
+            ]]>
+        </Question>
+        <OptionA>根本就沒有這個功能</OptionA>
+        <OptionB>
+            <![CDATA[
+                將一個 layout 併入另一個 layout,<br>
+                可節省一層 <b>ViewGroup</b>
+            ]]>
+        </OptionB>
+        <OptionC>版本控制系統用來合併不同的分支</OptionC>
+    </Exam>
+    <Exam>
+        <Question>
+            <![CDATA[
+                請問<br>切換 Activity 要呼叫哪個方法?
+            ]]>
+        </Question>
+        <OptionA>startActivit()</OptionA>
+        <OptionB>startActivityForResult()</OptionB>
+        <OptionC>以上皆是</OptionC>
+    </Exam>
+</Exams>
